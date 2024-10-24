@@ -1,7 +1,7 @@
 
 A File Integrity Monitor is a software that performs the act of validating the integrity of operating system and application software files using a verification method between the current file state and a known good state also called `Baseline`.
 
-I have developed a File Integrity Monitoring Solution named - **`HashLine - A File Integrity Monitor`**
+We have developed a File Integrity Monitoring Solution named - **`HashLine - A File Integrity Monitor`**
 
 HashLine can be used to **detect whether tampering is done with a directory and files inside**.
 
